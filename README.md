@@ -1,2 +1,3 @@
-# Sample-Java
-Simple java project
+# README
+
+Simple maven dependency
